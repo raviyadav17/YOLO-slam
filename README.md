@@ -2,4 +2,4 @@
 These repo is the part of slam- object detection 
 
 
-Dowlnod [**yolo3 weights** ](https://pjreddie.com/media/files/yolov3.weights)
+Download [**yolo3 weights** ](https://pjreddie.com/media/files/yolov3.weights)
